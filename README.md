@@ -1,2 +1,2 @@
-# NAME: ญาดา โพธิ์ล่าม 
+# NAME: Yada Pholam
 # STUDENT ID: 660610863
